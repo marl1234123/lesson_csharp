@@ -12,6 +12,10 @@ namespace lesson_csharp
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("123");
+            for(int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
